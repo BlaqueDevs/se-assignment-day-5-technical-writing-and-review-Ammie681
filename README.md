@@ -68,5 +68,7 @@ When writing the introduction of a README, I make sure to clearly state what the
 To succinctly convey the purpose and key features of a product, I focus on:
 
 •	**A clear opening statement** – explaining what the product is and why it matters.
+
 •	**Highlighting key features** – listing the most important functionalities in a concise way.
+
 •	**Keeping it simple** – avoiding unnecessary details and jargon to maintain clarity.
